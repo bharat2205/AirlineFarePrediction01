@@ -1,0 +1,12 @@
+{
+	"models" : {
+	"Random Forest": RandomForestRegressor(),
+	"Decision Tree": DecisionTreeRegressor(),
+	"Gradient Boosting": GradientBoostingRegressor(),
+	"Linear Regression": LinearRegression(),
+	"CatBoosting Regressor": CatBoostRegressor(verbose=False),
+	"AdaBoost Regressor": AdaBoostRegressor(),
+            }
+
+
+}

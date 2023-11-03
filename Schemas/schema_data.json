@@ -1,0 +1,36 @@
+{
+	"NumberofColumns" 			: 11,
+
+	"ColName"					:
+									{
+									"Airline"			:[],
+									"Date_of_Journey"	:[],
+									"Source"			:[],
+									"Destination"		:[],
+									"Route"				:[],
+									"Dep_Time"			:[],
+									"Arrival_Time"		:[],
+									"Duration"			:[],
+									"Total_Stops"		:[],
+									"Additional_Info"	:[],
+									"Price"				:[]
+									},
+
+"airlineName" : {
+				"IndiGo":       [0.25,0.75],
+                "Air India":	[0.27,0.75],
+                "Jet Airways":	[0.27,0.75],
+                "SpiceJet":	    [0.10,0.60],
+                "Multiple carriers":	[0.20,0.80],
+                "GoAir":	    [0.20,0.75],
+                "Vistara":	    [0.20,0.75],
+                "Air Asia":	    [0.25,0.75],
+                "Vistara Premium economy":	[0.25,0.75],
+                "Jet Airways Business":	[0.25,0.75],
+                "Multiple carriers Premium economy":	[0.20,0.75],
+                "Trujet":       [0,0]
+
+              }
+
+
+}
